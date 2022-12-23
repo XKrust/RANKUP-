@@ -1,0 +1,102 @@
+##############################
+#+                          +#
+#   CONFIGURAÇÕES DO MENU    #
+#+                          +#
+##############################
+
+menu-settings:
+
+  # Nome - É o titulo do menu - OBRIGATÓRIO
+  name: '&8Categoria: Minas Locais'
+
+  # Linhas - O número de linhas que tera o seu menu - OBRIGATÓRIO
+  # O número de linhas sera ignorado caso o tipo não for CHEST!
+  rows: 3
+  
+  # Tipo - O tipo do inventario que sera aberto(bau, dispenser etc..) - OBRIGATÓRIO
+  # Para ver a lista dos tipos validos acesse o arquivo ajuda.yml
+  type: CHEST
+
+  # Comando - Comando usado para abrir o menu. - OPCIONAL
+  # Para não queira usar um comando para abrir o menu deixe apenas as duas aspas em brancos. Exemplo: ''
+  # Caso você queira criar aliases para o comando coloque um ; depois do comando. Exemplo: 'menu; abrirmenu; abre;'
+  command: 'vip;mundovip'
+
+  # Atualização automatica - OPCIONAL
+  # Isto serve para atualizar os itens do menu automaticamente a cada X segundos.
+  auto-refresh: 5
+
+  # Comandos ao abrir - Comandos ou tarefas executadas ao abrir o menu - OPCIONAL
+  # Util caso você queira colocar um mvp ao abrir o MENU ou caso você queira colocar uma mensagem.
+  open-action: 'sound: notepling'
+
+  # Abrir menu com - Item que ao ser clicado abre o men - OPCIONAL
+  # Este menu sera aberto quando o player clicar com o botão direito segurando uma lã laranja [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+# Este primeiro item chamado item-de-testes contem todas as explicações e todas as opções que você pode usar.
+
+# ID/Nome do Icone (não pode ser repetido!)
+1:
+  LEFT-CLICK-COMMAND: 'warp minasusanoo'
+  NAME: '&eMina SUSANOO'
+  LORE:
+    - ''
+    - '&e&nESTA E A MINA SUSANOO'
+    - ''
+  DATA-VALUE: 3
+  ID: 397
+  KEEP-OPEN: true
+  SLOT: 11
+  SKULL-URL: 'http://textures.minecraft.net/texture/e9d615bd27de8e580f3913a1a4398804295617a6f70af532b46137da5f0e5e2d'
+2:
+  LEFT-CLICK-COMMAND: 'warp amaterasu'
+  RIGHT-CLICK-COMMAND: 'warp amaterasu'
+  KEEP-OPEN: true
+  NAME: '&bMina AMATERASU'
+  LORE:
+    - ''
+    - '&c&nAMATERASU:&7 ESTA E A MINA AMATERASU'
+    - ''
+  ID: 397
+  DATA-VALUE: 3
+  SLOT: 12
+  SKULL-URL: 'http://textures.minecraft.net/texture/39b6e047d3b2bca85e8cc49e5480f9774d8a0eafe6dfa9559530590283715142'
+3:
+  LEFT-CLICK-COMMAND: 'warp izanami'
+  RIGHT-CLICK-COMMAND: 'warp izanami'
+  KEEP-OPEN: true
+  NAME: '&cMINA IZANAMI'
+  LORE:
+    - ''
+    - '&c&nIZANAMI:&7 ESTA E A MINA IZANAMI'
+    - ''
+  ID: 397
+  DATA-VALUE: 3
+  SLOT: 13
+  SKULL-URL: 'http://textures.minecraft.net/texture/b6392773d114be30aeb3c09c90cbe691ffeaceb399b530fe6fb53ddc0ced3714'
+4:
+  LEFT-CLICK-COMMAND: 'open:Warps.yml'
+  RIGHT-CLICK-COMMAND: 'open:Warps.yml'
+  KEEP-OPEN: true
+  NAME: '&cRetornar'
+  ID: 397
+  DATA-VALUE: 3
+  SLOT: 15
+  SKULL-URL: 'http://textures.minecraft.net/texture/bd69e06e5dadfd84e5f3d1c21063f2553b2fa945ee1d4d7152fdc5425bc12a9'
+5:
+  LEFT-CLICK-COMMAND: 'warp vip'
+  RIGHT-CLICK-COMMAND: 'warp vip'
+  KEEP-OPEN: true
+  NAME: '&6&lSPAWN VIP'
+  ID: 397
+  DATA-VALUE: 3
+  SLOT: 21
+  SKULL-URL: 'http://textures.minecraft.net/texture/4528ed45802400f465b5c4e3a6b7a9f2b6a5b3d478b6fd84925cc5d988391c7d'
+

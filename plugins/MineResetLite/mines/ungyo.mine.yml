@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1420
+  maxY: 111
+  maxX: -70
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 81
+  resetWarnings: []
+  minX: -94
+  composition:
+    '21:0': 0.2
+    '16:0': 0.7
+    '15:0': 0.1
+  name: ungyo
+  resetClock: 2
+  minZ: -1444
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

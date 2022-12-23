@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -987
+  maxY: 44
+  maxX: 383
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 24
+  resetWarnings: []
+  minX: 359
+  composition:
+    '129:0': 0.5
+    '73:0': 0.5
+  name: shitenno
+  resetClock: 2
+  minZ: -1011
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

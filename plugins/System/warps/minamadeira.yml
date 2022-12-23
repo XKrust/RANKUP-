@@ -1,0 +1,13 @@
+Localizacao: world,-56.434634693903476,96.0,-1222.007351910926,-268.84827,6.8012342
+Permissao: system.warp.minamadeira
+MensagemSemPermissao: §cVocê não tem permissão para se teleportar para a warp minamadeira.
+Delay: 5
+DelayParaVips: false
+EnviarMensagem: true
+MensagemInicio: §aVocê sera teleportado para a warp minamadeira em 5 segundos!
+MensagemFinal: §aTeleportado com sucesso para a warp minamadeira!
+EnviarTitle: true
+Title: §aVOCÊ FOI TELEPORTADO
+SubTitle: §ePARA A WARP minamadeira
+MensagemPlayerTeleportado: §aVocê foi teleportado para a warp minamadeira!
+MensagemPlayerTeleportadoStaff: §a%player% teleportado com sucesso para a warp minamadeira.

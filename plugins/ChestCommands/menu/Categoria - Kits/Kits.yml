@@ -1,0 +1,115 @@
+##############################
+#+                          +#
+#   CONFIGURAÇÕES DO MENU    #
+#+                          +#
+##############################
+
+menu-settings:
+
+  # Nome - É o titulo do menu - OBRIGATÓRIO
+  name: '&8Categoria: Menu de Kits'
+
+  # Linhas - O número de linhas que tera o seu menu - OBRIGATÓRIO
+  # O número de linhas sera ignorado caso o tipo não for CHEST!
+  rows: 3
+  
+  # Tipo - O tipo do inventario que sera aberto(bau, dispenser etc..) - OBRIGATÓRIO
+  # Para ver a lista dos tipos validos acesse o arquivo ajuda.yml
+  type: CHEST
+
+  # Comando - Comando usado para abrir o menu. - OPCIONAL
+  # Para não queira usar um comando para abrir o menu deixe apenas as duas aspas em brancos. Exemplo: ''
+  # Caso você queira criar aliases para o comando coloque um ; depois do comando. Exemplo: 'menu; abrirmenu; abre;'
+  command: 'kit;kits;ekits;menukits'
+
+  # Atualização automatica - OPCIONAL
+  # Isto serve para atualizar os itens do menu automaticamente a cada X segundos.
+  auto-refresh: 5
+
+  # Comandos ao abrir - Comandos ou tarefas executadas ao abrir o menu - OPCIONAL
+  # Util caso você queira colocar um mvp ao abrir o MENU ou caso você queira colocar uma mensagem.
+  open-action: 'sound: villager yes'
+
+  # Abrir menu com - Item que ao ser clicado abre o men - OPCIONAL
+  # Este menu sera aberto quando o player clicar com o botão direito segurando uma lã laranja [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+# Este primeiro item chamado item-de-testes contem todas as explicações e todas as opções que você pode usar.
+
+# ID/Nome do Icone (não pode ser repetido!)
+kitranks:
+  LEFT-CLICK-COMMAND: 'open:kitsranks.yml'
+  RIGHT-CLICK-COMMAND: 'open:kitsranks.yml'
+  NAME: '&eKits de Ranks'
+  LORE:
+    - ''
+    - '&eBotão Esquerdo: &fVer Conteúdo.'
+    - '&eBotão Direito: &fAbrir Menu.'
+    - ''
+    - '&aAdquira os itens Básicos e comece sua jornada.'
+  DATA-VALUE: 3
+  ID: 397
+  KEEP-OPEN: true
+  SLOT: 10
+  SKULL-URL: 'http://textures.minecraft.net/texture/2f733269614fe8a9ae89f5c58286aa53b9e383fc4dc57e37ecbfa5e93a'
+kitsvips:
+  LEFT-CLICK-COMMAND: 'open:kitsvip.yml'
+  RIGHT-CLICK-COMMAND: 'open:kitsvip.yml'
+  NAME: '&bKits VIP'
+  LORE:
+    - ''
+    - '&eBotão Esquerdo: &fVer Conteúdo.'
+    - '&eBotão Direito: &fAbrir Menu.'
+    - ''
+    - '&7  &fPegue o seu &b&lKIT VIP&f.'
+    - '&7  &fTenha vantagens ao comprar &b&LVIP&f.'
+    - ''
+    - '&eSite do Servidor: &7freestyleshop.tebex.io'
+  DATA-VALUE: 3
+  ID: 397
+  KEEP-OPEN: true
+  SLOT: 12
+  SKULL-URL: 'http://textures.minecraft.net/texture/a466723beb07c92edbeb6fc9dedcb53c04cfbe119a92d4953a1c8d7e5cabd14'
+caixasmisteriosas:
+  LEFT-CLICK-COMMAND: 'warp caixas'
+  RIGHT-CLICK-COMMAND: 'warp caixas'
+  NAME: '&bCaixas Misteriosas'
+  LORE:
+    - ''
+    - '&eBotão Esquerdo: &fAbrir Menu.'
+    - '&eBotão Direito: &fVer Conteúdo.'
+    - ''
+    - '&7  &fCompre caixas e garanta itens &b&lLendários&f.'
+    - '&7  &fItens garantidos apenas em &b&LCaixas&f.'
+    - ''
+    - '&eSite do Servidor: &7freestyleshop.tebex.io'
+  DATA-VALUE: 3
+  ID: 397
+  KEEP-OPEN: true
+  SLOT: 14
+  SKULL-URL: 'http://textures.minecraft.net/texture/c123d8be0a627b5167dbd996290421cdd7973fd02fc188d8183b1c062ecde714'
+itensespeciais:
+  LEFT-CLICK-COMMAND: 'open:itensespeciais.yml'            
+  RIGHT-CLICK-COMMAND: 'open:itensespeciais.yml'
+  KEEP-OPEN: true
+  NAME: '&aItens Especiais'
+  LORE:
+    - ''
+    - '&eBotão Esquerdo: &fVer Conteúdo.'
+    - '&eBotão Direito: &fAbrir Menu.'
+    - ''
+    - '&7  &fAqui você consegue &a&lItens Especiais&f.'
+    - '&7  &fItens exclusivos para seu &a&lCombate &fe &a&LInvasão&f.'
+    - ''
+    - '&eSite Do Servidor: &7freestyleshop.tebex.io'
+  DATA-VALUE: 3
+  ID: 397
+  KEEP-OPEN: true
+  SLOT: 16
+  SKULL-URL: 'http://textures.minecraft.net/texture/78ee61a640826ee3878ecf5648a576fcba6472f0e6421850a2d3ad028e53d2ea'

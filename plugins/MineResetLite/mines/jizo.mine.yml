@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1423
+  maxY: 110
+  maxX: 61
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 87
+  resetWarnings: []
+  minX: 37
+  composition:
+    '16:0': 0.5
+    '15:0': 0.5
+  name: jizo
+  resetClock: 2
+  minZ: -1447
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

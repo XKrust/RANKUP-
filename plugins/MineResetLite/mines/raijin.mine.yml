@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1226
+  maxY: 84
+  maxX: 270
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 64
+  resetWarnings: []
+  minX: 246
+  composition:
+    '73:0': 0.5
+    '15:0': 0.5
+  name: raijin
+  resetClock: 2
+  minZ: -1250
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1130
+  maxY: 47
+  maxX: 465
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 27
+  resetWarnings: []
+  minX: 441
+  composition:
+    '129:0': 0.1
+    '73:0': 0.7
+    '15:0': 0.2
+  name: fujin
+  resetClock: 2
+  minZ: -1154
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

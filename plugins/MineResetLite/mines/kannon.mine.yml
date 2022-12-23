@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1171
+  maxY: 93
+  maxX: -338
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 73
+  resetWarnings: []
+  minX: -362
+  composition:
+    '21:0': 0.5
+    '16:0': 0.5
+  name: kannon
+  resetClock: 2
+  minZ: -1195
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

@@ -1,0 +1,13 @@
+Localizacao: world,-293.590524211506,95.0,-1182.7085225264887,-271.20752,8.844434
+Permissao: system.warp.minakannon
+MensagemSemPermissao: §cVocê não tem permissão para se teleportar para a warp minakannon.
+Delay: 5
+DelayParaVips: false
+EnviarMensagem: true
+MensagemInicio: §aVocê sera teleportado para a warp minakannon em 5 segundos!
+MensagemFinal: §aTeleportado com sucesso para a warp minakannon!
+EnviarTitle: true
+Title: §aVOCÊ FOI TELEPORTADO
+SubTitle: §ePARA A WARP minakannon
+MensagemPlayerTeleportado: §aVocê foi teleportado para a warp minakannon!
+MensagemPlayerTeleportadoStaff: §a%player% teleportado com sucesso para a warp minakannon.

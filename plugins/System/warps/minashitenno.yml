@@ -1,0 +1,13 @@
+Localizacao: world,372.30594552086654,45.0,-1031.2201798658407,-351.03436,8.4000225
+Permissao: system.warp.minashitenno
+MensagemSemPermissao: §cVocê não tem permissão para se teleportar para a warp minashitenno.
+Delay: 5
+DelayParaVips: false
+EnviarMensagem: true
+MensagemInicio: §aVocê sera teleportado para a warp minashitenno em 5 segundos!
+MensagemFinal: §aTeleportado com sucesso para a warp minashitenno!
+EnviarTitle: true
+Title: §aVOCÊ FOI TELEPORTADO
+SubTitle: §ePARA A WARP minashitenno
+MensagemPlayerTeleportado: §aVocê foi teleportado para a warp minashitenno!
+MensagemPlayerTeleportadoStaff: §a%player% teleportado com sucesso para a warp minashitenno.

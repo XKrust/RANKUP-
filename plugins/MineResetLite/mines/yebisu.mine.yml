@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1342
+  maxY: 95
+  maxX: -378
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 75
+  resetWarnings: []
+  minX: -402
+  composition:
+    '21:0': 0.7
+    '1:0': 0.2
+    '16:0': 0.1
+  name: yebisu
+  resetClock: 2
+  minZ: -1366
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1195
+  maxY: 100
+  maxX: -520
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 78
+  resetWarnings: []
+  minX: -544
+  composition:
+    '21:0': 0.5
+    '1:0': 0.5
+  name: tengu
+  resetClock: 2
+  minZ: -1219
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

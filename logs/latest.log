@@ -1,0 +1,505 @@
+[07:19:07] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[07:19:07] [Server thread/INFO]: Loading properties
+[07:19:07] [Server thread/INFO]: Default game type: SURVIVAL
+[07:19:07] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[07:19:07] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[07:19:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:19:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:19:07] [Server thread/INFO]: Debug logging is disabled
+[07:19:07] [Server thread/INFO]: Data value allowed items: 
+[07:19:07] [Server thread/INFO]: Generating keypair
+[07:19:07] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25593
+[07:19:07] [Server thread/INFO]: Using epoll channel type
+[07:19:08] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[07:19:10] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.40
+[07:19:10] [Server thread/INFO]: [VoidGen] Loading VoidGen v2.2.1
+[07:19:10] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+[07:19:10] [Server thread/INFO]: [nChat] Loading nChat v5.6.3
+[07:19:11] [Server thread/INFO]: [yPlugins] Loading yPlugins v2.2.4
+[07:19:13] [Server thread/INFO]: [yPlugins] IP da máquina: 135.148.88.197:25593
+[07:19:13] [Server thread/INFO]: [yPlugins] Plugins localizados: ["yClans"]
+[07:19:13] [Server thread/INFO]: [yPlugins] [LoaderV1] - Plugins encontrados para o IP: [yShopV2, yEventos, yNewBosses, yTempoOnline, yKits, yEssentials, yVender, yTutorial, ySpawnersShop, yCratesVirtuais, yLobby, yLogger, yClans, yAFK, yRankup]
+[07:19:14] [Server thread/INFO]: [yCore] Loading yCore v1.0.0
+[07:19:14] [Server thread/INFO]: [yClans] Loading yClans v2.0.9
+[07:19:14] [Server thread/INFO]: [yClans] API registrada com sucesso.
+[07:19:14] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.2
+[07:19:14] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[07:19:14] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v3.2.5
+[07:19:14] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[07:19:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[07:19:18] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.3
+[07:19:18] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[07:19:18] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[07:19:18] [Server thread/INFO]: [System] Loading System v1.14.9
+[07:19:18] [Server thread/INFO]: [TAB] Loading TAB v3.1.5
+[07:19:18] [Server thread/INFO]: [PlotSquared] Loading PlotSquared v20.03.28-71943e6-796
+[07:19:18] [Server thread/INFO]: [NextEconomy] Loading NextEconomy v2.1.4
+[07:19:18] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[07:19:18] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b699
+[07:19:18] [Server thread/INFO]: [yRankup] Loading yRankup v1.6.1
+[07:19:18] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.4.7
+[07:19:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.40
+[07:19:19] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[07:19:19] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.40[m
+[07:19:19] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[07:19:19] [Server thread/INFO]: [m
+[07:19:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[07:19:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[07:19:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[07:19:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[07:19:24] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 5171ms)
+[07:19:24] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.2.1
+[07:19:24] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_1_8
+[07:19:24] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+[07:19:26] [Server thread/INFO]: [nChat] Enabling nChat v5.6.3
+[07:19:27] [Server thread/INFO]: [nChat] Successful plugin core start (took 0.59s)[m
+[07:19:27] [Server thread/INFO]: [0;33;1m          ___ _           _   [m
+[07:19:27] [Server thread/INFO]: [0;33;1m  _ __   / __\ |__   __ _| |_ [m
+[07:19:27] [Server thread/INFO]: [0;33;1m | '_ \ / /  | '_ \ / _` | __|[m
+[07:19:27] [Server thread/INFO]: [0;33;1m | | | / /___| | | | (_| | |_ [m
+[07:19:27] [Server thread/INFO]: [0;33;1m |_| |_\____/|_| |_|\__,_|\__|[m
+[07:19:27] [Server thread/INFO]: [0;33;1m                             [m
+[07:19:27] [Server thread/INFO]: [0;33;1m By: www.nickuc.com - V 5.6.3[m
+[07:19:27] [Server thread/INFO]: [m
+[07:19:28] [Server thread/INFO]: [yPlugins] Enabling yPlugins v2.2.4
+[07:19:28] [Server thread/INFO]: [yCore] Enabling yCore v1.0.0
+[07:19:28] [Server thread/INFO]: [yCore] Plugin carregado.
+[07:19:28] [Server thread/INFO]: [yCore] Carregando sistemas.
+[07:19:28] [Server thread/INFO]: [yClans] Enabling yClans v2.0.9
+[07:19:28] [Server thread/INFO]: [yClans] Plugin carregado.
+[07:19:28] [Server thread/INFO]: [yClans] Carregando sistemas.
+[07:19:28] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[07:19:28] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[07:19:28] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[07:19:28] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[07:19:28] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v3.2.5
+[07:19:28] [Server thread/INFO]: [PlayerPoints] Initializing using RoseGarden v1.1.0.42-SNAPSHOT
+[07:19:28] [Server thread/INFO]: [PlayerPoints] Data handler connected using SQLite.
+[07:19:29] [Server thread/ERROR]: [PlayerPoints] File en_US.lang does not exist. Defaulting to en_US.lang
+[07:19:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[07:19:29] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[07:19:29] [Server thread/INFO]: [PlotSquared] Enabling PlotSquared v20.03.28-71943e6-796
+[07:19:29] [Server thread/INFO]: Version is PlotSquared-20.3.28-71943e6-796
+[07:19:29] [Server thread/INFO]: [0;33;22mMetrics enabled.[m
+[07:19:29] [Server thread/INFO]:  [0;33;22mPlotSquared is using online UUIDs[m
+[07:19:30] [Server thread/INFO]: PlotSquared hooked into WorldEdit.[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mplot-expiry[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mkill-road-mobs[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mkill-road-items[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mworlds[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mworldedit-restrictions[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mdatabase-purger[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22meconomy[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mblock-cache[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mkill-road-vehicles[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mpersistent-meta[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mban-deleter[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mupdater[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mdatabase[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mplotme-converter[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mpermission-cache[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mdisable-fawe-optimization[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mrating-cache[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mcomment-notifier[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mmetrics[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mchunk-processor[0;31;1m, Value: [0;33;22mfalse[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22muuid-cache[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mevents[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;31;1mKey: [0;33;22mcommands[0;31;1m, Value: [0;33;22mtrue[m
+[07:19:30] [Server thread/INFO]: [0;32;1mO PlotSquared agora está ativado.[m
+[07:19:30] [Server thread/INFO]: [NextEconomy] Enabling NextEconomy v2.1.4
+[07:19:30] [Server thread/INFO]: [NextEconomy] Iniciando carregamento do plugin.
+[07:19:30] [Server thread/INFO]: [NextEconomy] [NextUpdate] Olá! Vim aqui revisar se a versão do NextEconomy está atualizada, e pelo visto sim! Obrigado por usar nossos plugins!
+[07:19:30] [Server thread/INFO]: [NextEconomy] Conexão com o banco de dados (SQLite) realizada com sucesso.
+[07:19:30] [Server thread/WARN]: [NextEconomy] Recomendamos o uso do banco de dados MySQL.
+[07:19:30] [Server thread/INFO]: [NextEconomy] DAO do plugin iniciado com sucesso.
+[07:19:30] [Server thread/INFO]: [NextEconomy] Interações via chat registradas com sucesso.
+[07:19:30] [Server thread/WARN]: [NextEconomy] Could not save messages.yml to plugins/NextEconomy/messages.yml because messages.yml already exists.
+[07:19:30] [Server thread/WARN]: [NextEconomy] Could not save ranking.yml to plugins/NextEconomy/ranking.yml because ranking.yml already exists.
+[07:19:30] [Server thread/WARN]: [NextEconomy] Could not save inventories.yml to plugins/NextEconomy/inventories.yml because inventories.yml already exists.
+[07:19:30] [Server thread/WARN]: [NextEconomy] Could not save discord.yml to plugins/NextEconomy/discord.yml because discord.yml already exists.
+[07:19:31] [Server thread/INFO]: [NextEconomy] Configurações registradas e injetadas com sucesso.
+[07:19:31] [Server thread/INFO]: [NextEconomy] Comandos registrados com sucesso.
+[07:19:31] [Server thread/INFO]: [NextEconomy] Associação com o 'Vault' realizada com sucesso.
+[07:19:31] [Server thread/INFO]: [NextEconomy] Métrica de uso habilitada com sucesso.
+[07:19:31] [Server thread/INFO]: [NextEconomy] Inventários registrados com sucesso
+[07:19:31] [Server thread/INFO]: [NextEconomy] Plugin inicializado com sucesso. (310.5 ms)
+[07:19:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:19:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:19:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:19:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:19:31] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[07:19:31] [Server thread/INFO]: Preparing level "world"
+[07:19:31] [Server thread/INFO]: [VoidGen] Generator settings have not been set. Using default values:
+[07:19:31] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[07:19:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[07:19:31] [Server thread/INFO]: Max TNT Explosions: 100
+[07:19:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:19:31] [Server thread/INFO]: Anti X-Ray: false
+[07:19:31] [Server thread/INFO]: 	Engine Mode: 1
+[07:19:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[07:19:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[07:19:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[07:19:31] [Server thread/INFO]: Mob Spawn Range: 4
+[07:19:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[07:19:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:19:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[07:19:31] [Server thread/INFO]: Random Lighting Updates: false
+[07:19:31] [Server thread/INFO]: Structure Info Saving: true
+[07:19:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[07:19:31] [Server thread/INFO]: Max Entity Collisions: 8
+[07:19:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[07:19:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:19:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[07:19:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[07:19:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[07:19:31] [Server thread/INFO]: View Distance: 10
+[07:19:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[07:19:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[07:19:31] [Server thread/INFO]: Clear tick list: false
+[07:19:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[07:19:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[07:19:31] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[07:19:31] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[07:19:31] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[07:19:31] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[07:19:31] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[07:19:31] [Server thread/INFO]: Water over lava flow speed: 5
+[07:19:31] [Server thread/INFO]: Fix TNT cannons: false
+[07:19:31] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[07:19:31] [Server thread/INFO]: Keep spawn chunk loaded: true
+[07:19:31] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[07:19:31] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[07:19:31] [Server thread/INFO]: World async lighting: false
+[07:19:31] [Server thread/INFO]: BukkitPlotGenerator does not fully support: de.xtkq.voidgen.b.b.d@65730d7e[m
+[07:19:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[07:19:31] [Server thread/INFO]: Max TNT Explosions: 100
+[07:19:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:19:31] [Server thread/INFO]: Anti X-Ray: false
+[07:19:31] [Server thread/INFO]: 	Engine Mode: 1
+[07:19:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[07:19:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[07:19:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[07:19:31] [Server thread/INFO]: Mob Spawn Range: 4
+[07:19:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[07:19:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[07:19:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:19:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[07:19:31] [Server thread/INFO]: Random Lighting Updates: false
+[07:19:31] [Server thread/INFO]: Structure Info Saving: true
+[07:19:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[07:19:31] [Server thread/INFO]: Max Entity Collisions: 8
+[07:19:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[07:19:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:19:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[07:19:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[07:19:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[07:19:31] [Server thread/INFO]: View Distance: 10
+[07:19:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[07:19:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[07:19:31] [Server thread/INFO]: Clear tick list: false
+[07:19:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[07:19:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[07:19:31] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[07:19:31] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[07:19:31] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[07:19:31] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[07:19:31] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[07:19:31] [Server thread/INFO]: Water over lava flow speed: 5
+[07:19:31] [Server thread/INFO]: Fix TNT cannons: false
+[07:19:31] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[07:19:31] [Server thread/INFO]: Keep spawn chunk loaded: true
+[07:19:31] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[07:19:31] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[07:19:31] [Server thread/INFO]: World async lighting: false
+[07:19:31] [Server thread/INFO]: BukkitPlotGenerator does not fully support: null[m
+[07:19:31] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8264256346005528468)
+[07:19:32] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2021101080961814176)
+[07:19:33] [Server thread/INFO]: Preparing spawn area: 28%
+[07:19:34] [Server thread/INFO]: Preparing spawn area: 93%
+[07:19:34] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.2
+[07:19:34] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[07:19:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[07:19:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[07:19:35] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[07:19:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.3
+[07:19:35] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_8_R3[32;1m, using [33;1mSpigotSkinRefresher[32;1m.[0;39m[m
+[07:19:36] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[07:19:37] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[07:19:37] [Server thread/INFO]: [ChestCommands] PlayerPoints vinculado com sucesso!
+[07:19:37] [Server thread/INFO]: [System] Enabling System v1.14.9
+[07:19:38] [Server thread/INFO]: [TAB] Enabling TAB v3.1.5
+[07:19:38] [Server thread/INFO]: [TAB] Server version: 1.8.8 (v1_8_R3)[m
+[07:19:38] [Server thread/INFO]: [TAB] Loaded NMS hook in 31ms[m
+[07:19:38] [Server thread/INFO]: [TAB] [0;32;1mEnabled in 201ms[m
+[07:19:38] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[07:19:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[07:19:38] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[07:19:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[07:19:38] [Server thread/INFO]: [WorldGuard] Loading region data...
+[07:19:39] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b699
+[07:19:40] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Plotme
+[07:19:40] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[07:19:40] [Server thread/INFO]: [Multiverse-Core] 2 - World(s) loaded.
+[07:19:40] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b699 (API v19) Enabled - By Rigby, fernferret, lithium3141 and main--
+[07:19:40] [Server thread/INFO]: [yRankup] Enabling yRankup v1.6.1
+[07:19:40] [Server thread/INFO]: [yRankup] Plugin carregado.
+[07:19:40] [Server thread/INFO]: [yRankup] Carregando sistemas.
+[07:19:40] [Server thread/INFO]: [INFO] [0;32;1m[yRankup] [0;37;1mconexão com sqlite inicializada com sucesso[m
+[07:19:40] [Server thread/INFO]: [INFO] [0;32;1m[yRankup] [0;37;1mCarregado 0 objetos em 0ms[m
+[07:19:40] [Server thread/INFO]: [yRankup] Plugin (Vault and Economy) found. Realizing Hook...
+[07:19:40] [Server thread/INFO]: [yRankup] Plugin (PlayerPoints) encontrado. Realizando hook...
+[07:19:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: yrankup [1.6.1]
+[07:19:40] [Server thread/INFO]: [yRankup] PlaceholderAPI encontrado, métodos inicializados.
+[07:19:40] [Server thread/INFO]: [yRankup] Legendchat encontrado, métodos inicializados.
+[07:19:40] [Server thread/INFO]: [yRankup] Ranks carregados.
+[07:19:40] [Server thread/INFO]: [yRankup] Prestigios carregados.
+[07:19:40] [Server thread/INFO]: [yRankup] Descontos carregados.
+[07:19:40] [Server thread/INFO]: [yRankup] Bonus carregados.
+[07:19:40] [Server thread/INFO]: [yRankup] Heads carregadas.
+[07:19:40] [Server thread/INFO]: [yRankup] Mobs carregados.
+[07:19:40] [Server thread/INFO]: [yRankup] Blocos carregados.
+[07:19:40] [Server thread/INFO]: [yRankup] SellHeads carregadas.
+[07:19:40] [Server thread/INFO]: [yRankup] Loja carregada.
+[07:19:40] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.4.7
+[07:19:40] [Server thread/INFO]: [MineResetLite] MRL is managed and developed by Boomclaw under the Apache 2.0 license.
+[07:19:40] [Server thread/INFO]: [MineResetLite] For any issues or suggestions, use the Spigot discussion thread. Do not PM any of the developers.
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'samurai.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'ungyo.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'yebisu.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'kannon.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'hachiman.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'fujin.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'shitenno.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'tengu.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'jizo.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'raijin.mine.yml'...
+[07:19:40] [Server thread/INFO]: [MineResetLite] Loading mine from file 'inari.mine.yml'...
+[07:19:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:19:41] [Server thread/INFO]: Done (10.297s)! For help, type "help" or "?"
+[07:19:41] [Server thread/INFO]: Timings Reset
+[07:19:41] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Detected class org.bukkit.event.block.BlockExplodeEvent[m
+[07:19:42] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Plugin 'WorldGuard' found. Using it now.[m
+[07:19:42] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Optimizing PlotSquared[m
+[07:19:42] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m  - QueueProvider: class com.boydti.fawe.regions.general.plot.FaweLocalBlockQueue[m
+[07:19:42] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m  - HybridPlotManager.REGENERATIVE_CLEAR: false[m
+[07:19:42] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m  - SchematicHandler: com.boydti.fawe.regions.general.plot.FaweSchematicHandler@635871db[m
+[07:19:42] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m  - ChunkManager: com.boydti.fawe.regions.general.plot.FaweChunkManager@5cbd1529[m
+[07:19:42] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Plugin 'PlotSquared' found. Using it now.[m
+[07:19:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: playerpoints [3.2.5]
+[07:19:42] [Server thread/INFO]: [0;31;1m`Plotme` was not properly loaded - PlotSquared will now try to load it properly: [m
+[07:19:42] [Server thread/INFO]: [0;30;1m - [0;37;22mAre you trying to delete this world? Remember to remove it from the settings.yml, bukkit.yml and multiverse worlds.yml[m
+[07:19:42] [Server thread/INFO]: [0;30;1m - [0;37;22mYour world management plugin may be faulty (or non existent)[m
+[07:19:42] [Server thread/INFO]: [VoidGen] Generator settings have not been set. Using default values:
+[07:19:42] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[07:19:42] [Server thread/INFO]: BukkitPlotGenerator does not fully support: de.xtkq.voidgen.b.b.d@5bfaa09d[m
+[07:19:43] [Server thread/INFO]: CONSOLE: Starting creation of world 'Plotme'...[m
+[07:19:43] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Plotme' - Env: NORMAL - Type: NORMAL & generator: PlotSquared
+[07:19:43] [Server thread/INFO]: -------- World Settings For [Plotme] --------
+[07:19:43] [Server thread/INFO]: Max TNT Explosions: 100
+[07:19:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:19:43] [Server thread/INFO]: Anti X-Ray: false
+[07:19:43] [Server thread/INFO]: 	Engine Mode: 1
+[07:19:43] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[07:19:43] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[07:19:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[07:19:43] [Server thread/INFO]: Mob Spawn Range: 4
+[07:19:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[07:19:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[07:19:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:19:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[07:19:43] [Server thread/INFO]: Random Lighting Updates: false
+[07:19:43] [Server thread/INFO]: Structure Info Saving: true
+[07:19:43] [Server thread/INFO]: Sending up to 10 chunks per packet
+[07:19:43] [Server thread/INFO]: Max Entity Collisions: 8
+[07:19:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[07:19:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:19:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[07:19:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[07:19:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[07:19:43] [Server thread/INFO]: View Distance: 10
+[07:19:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[07:19:43] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[07:19:43] [Server thread/INFO]: Clear tick list: false
+[07:19:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[07:19:43] [Server thread/INFO]: -------- World Settings For [Plotme] --------
+[07:19:43] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[07:19:43] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[07:19:43] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[07:19:43] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[07:19:43] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[07:19:43] [Server thread/INFO]: Water over lava flow speed: 5
+[07:19:43] [Server thread/INFO]: Fix TNT cannons: false
+[07:19:43] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[07:19:43] [Server thread/INFO]: Keep spawn chunk loaded: true
+[07:19:43] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[07:19:43] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[07:19:43] [Server thread/INFO]: World async lighting: false
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [32;1m14.2.3[0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
+[07:19:43] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[07:19:43] [Server thread/INFO]: [0;32;1mDetected world load for 'Plotme'[m
+[07:19:43] [Server thread/INFO]: [0;36;22m - generator: [0;37;22mPlotSquared>PlotSquared[m
+[07:19:43] [Server thread/INFO]: [0;36;22m - plotworld: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotWorld[m
+[07:19:43] [Server thread/INFO]: [0;36;22m - manager: [0;37;22mcom.intellectualcrafters.plot.generator.HybridPlotManager[m
+[07:19:43] [Server thread/INFO]: World possibly already loaded: Plotme[m
+[07:19:43] [Server thread/INFO]: Preparing start region for level 2 (Seed: 2615366049092216650)
+[07:19:44] [Server thread/INFO]: Preparing spawn area for Plotme, 8%
+[07:19:45] [Server thread/INFO]: Preparing spawn area for Plotme, 8%
+[07:19:46] [Server thread/INFO]: Preparing spawn area for Plotme, 12%
+[07:19:47] [Server thread/INFO]: Preparing spawn area for Plotme, 20%
+[07:19:48] [Server thread/INFO]: Preparing spawn area for Plotme, 36%
+[07:19:49] [Server thread/INFO]: Preparing spawn area for Plotme, 48%
+[07:19:50] [Server thread/INFO]: Preparing spawn area for Plotme, 56%
+[07:19:52] [Server thread/INFO]: Preparing spawn area for Plotme, 81%
+[07:19:52] [Server thread/INFO]: [WorldGuard] (Plotme) TNT ignition is PERMITTED.
+[07:19:52] [Server thread/INFO]: [WorldGuard] (Plotme) Lighters are PERMITTED.
+[07:19:52] [Server thread/INFO]: [WorldGuard] (Plotme) Lava fire is blocked.
+[07:19:52] [Server thread/INFO]: [WorldGuard] (Plotme) Fire spread is UNRESTRICTED.
+[07:19:52] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Plotme'
+[07:19:53] [Server thread/INFO]: CONSOLE: Complete![m
+[07:19:53] [Server thread/INFO]: World possibly already loaded: Plotme[m
+[07:19:53] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[07:19:53] [Server thread/INFO]: [yClans] Plugin (Vault e Economia) encontrados. Realizando Hook...
+[07:19:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: yclans [2.0.9]
+[07:19:53] [Server thread/INFO]: [yClans] PlaceholderAPI encontrado, métodos inicializados.
+[07:19:53] [Server thread/INFO]: [yClans] Legendchat found, methods initialized.
+[07:19:54] [Server thread/INFO]: [INFO] [0;32;1m[yClans] [0;37;1mconexão com sqlite inicializada com sucesso[m
+[07:19:54] [Server thread/INFO]: [INFO] [0;32;1m[yClans] [0;37;1mCarregado 10 objetos em 75ms[m
+[07:19:54] [Server thread/INFO]: [INFO] [0;32;1m[yPlugins] [0;37;1mCarregado 0 objetos em 0ms[m
+[07:19:54] [Server thread/INFO]: [INFO] [0;32;1m[yPlugins] [0;37;1mCarregado 0 objetos em 0ms[m
+[07:19:54] [Server thread/INFO]: [yClans] Enums carregadas.
+[07:19:54] [Server thread/INFO]: [yClans] 16 cores carregada(s): [a, b, c, d, e, f, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[07:19:54] [Server thread/INFO]: [yClans] 1 custom-placeholders carregada(s): [custom1]
+[07:19:54] [Server thread/INFO]: [yClans] 1 mercado-itens carregado(s): [resetkdr]
+[07:19:54] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[07:19:54] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
+[07:19:54] [Server thread/INFO]: Starting UUID caching[m
+[07:19:54] [Craft Scheduler Thread - 4/INFO]: [0;33;22mStarting player data caching for: world[m
+[07:19:54] [Craft Scheduler Thread - 4/INFO]: [0;32;1mFast mode UUID caching enabled![m
+[07:19:54] [Craft Scheduler Thread - 2/INFO]: [yPlugins] [yStore] Verificando atualizações...
+[07:19:55] [Server thread/INFO]: [nChat] [Vault] Chat provider detected: LuckPerms[m
+[07:19:55] [Server thread/INFO]: [nChat] [Vault] Economy provider detected: NextEconomy[m
+[07:19:55] [Server thread/INFO]: [nChat] [Vault] Permission provider detected: LuckPerms[m
+[07:19:55] [Craft Scheduler Thread - 4/INFO]: [0;33;22mCached a total of: 1 UUIDs[m
+[07:19:55] [Craft Scheduler Thread - 7/INFO]: [Vault] No new version available
+[07:19:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: NextEconomy [2.1.4]
+[07:19:55] [Server thread/INFO]: [NextEconomy] Placeholder registrada com sucesso!
+[07:19:55] [Server thread/WARN]: [NextEconomy] Dependência não encontrada (HolographicDisplays ou CMI) O ranking em NPC, Holograma e ArmorStand não serão usados.
+[07:19:55] [Server thread/INFO]: [NextEconomy] [Chat] Dependência 'nChat' sendo utilizada como plugin de Chat
+[07:19:55] [Server thread/INFO]: [NextEconomy] Foram registrados 11 listeners com sucesso!
+[07:19:55] [Server thread/INFO]: [NextEconomy] [Grupos] Integrado com sucesso com o plugin 'VaultGroupWrapper'
+[07:19:55] [Server thread/WARN]: [NextEconomy] Dependência não encontrada (DiscordSRV) A integração com o discord não será usada.
+[07:19:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: playerpoints [2.0.0]
+[07:19:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server [2.6.1]
+[07:19:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault [1.7.1]
+[07:19:56] [Server thread/INFO]: [0;32;1m3 placeholder hook(s) registered![m
+[07:19:59] [Craft Scheduler Thread - 2/INFO]: [yPlugins] Seus plugins estão atualizados!
+[07:21:18] [Thread-14/INFO]: UUID of player XKrust is aa674d21-7d9c-3b9e-b1e3-e22c5ba5d8db
+[07:21:18] [Server thread/INFO]: XKrust[/189.62.7.6:51201] logged in with entity id 1 at ([world]-853.5128070710682, 77.0, -1262.409339713526)
+[07:21:25] [Server thread/INFO]: XKrust issued server command: /warp
+[07:21:26] [Server thread/INFO]: XKrust issued server command: /warp terrenos
+[07:21:32] [Server thread/INFO]: XKrust issued server command: /gm 1
+[07:21:39] [Server thread/INFO]: XKrust issued server command: /warp
+[07:21:40] [Server thread/INFO]: XKrust issued server command: /warp terrenos
+[07:21:46] [Server thread/INFO]: XKrust issued server command: /speed 0.2
+[07:22:11] [Server thread/INFO]: XKrust issued server command: /delwarp terrenos
+[07:22:14] [Server thread/INFO]: XKrust issued server command: /setwarp terrenos
+[07:22:27] [Server thread/INFO]: XKrust issued server command: /spawn
+[07:26:56] [Server thread/INFO]: XKrust issued server command: /mrl flag samurai silent true
+[07:27:02] [Server thread/INFO]: XKrust issued server command: /mrl flag ungyo silent true
+[07:27:08] [Server thread/INFO]: XKrust issued server command: /mrl flag yebisu silent true
+[07:27:14] [Server thread/INFO]: XKrust issued server command: /mrl flag kannon silent true
+[07:27:19] [Server thread/INFO]: XKrust issued server command: /mrl flag hachiman silent true
+[07:27:24] [Server thread/INFO]: XKrust issued server command: /mrl flag fujin silent true
+[07:27:28] [Server thread/INFO]: XKrust issued server command: /mrl flag shitenno silent true
+[07:27:33] [Server thread/INFO]: XKrust issued server command: /mrl flag tengu silent true
+[07:27:38] [Server thread/INFO]: XKrust issued server command: /mrl flag jizo silent true
+[07:27:43] [Server thread/INFO]: XKrust issued server command: /mrl flag raijin silent true
+[07:27:48] [Server thread/INFO]: XKrust issued server command: /mrl flag inari silent true
+[07:27:58] [Server thread/INFO]: XKrust issued server command: /gm 1
+[07:28:01] [Server thread/INFO]: XKrust lost connection: Disconnected
+[07:32:02] [Server thread/INFO]: Stopping the server
+[07:32:02] [Server thread/INFO]: Stopping server
+[07:32:02] [Server thread/INFO]: [yClans] Disabling yClans v2.0.9
+[07:32:02] [Server thread/INFO]: [yClans] Sistemas descarregados.
+[07:32:02] [Server thread/INFO]: [yClans] Plugin descarregado.
+[07:32:02] [Server thread/INFO]: [yCore] Disabling yCore v1.0.0
+[07:32:02] [Server thread/INFO]: [yCore] Sistemas descarregados.
+[07:32:02] [Server thread/INFO]: [yCore] Plugin descarregado.
+[07:32:02] [Server thread/INFO]: [MineResetLite] Disabling MineResetLite v0.4.7
+[07:32:02] [Server thread/INFO]: [MineResetLite] MineResetLite disabled
+[07:32:02] [Server thread/INFO]: [yRankup] Disabling yRankup v1.6.1
+[07:32:02] [Server thread/INFO]: [yRankup] Sistemas descarregados.
+[07:32:02] [Server thread/INFO]: [yRankup] Plugin descarregado.
+[07:32:02] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b699
+[07:32:02] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[07:32:02] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[07:32:02] [Server thread/INFO]: [NextEconomy] Disabling NextEconomy v2.1.4
+[07:32:02] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v20.03.28-71943e6-796
+[07:32:02] [Server thread/INFO]: [0;33;22mAll DB transactions during this session are being validated (This may take a while if corrections need to be made)[m
+[07:32:02] [Server thread/INFO]: [TAB] Disabling TAB v3.1.5
+[07:32:02] [Server thread/INFO]: [TAB] [0;32;1mDisabled in 3ms[m
+[07:32:02] [Server thread/INFO]: [System] Disabling System v1.14.9
+[07:32:02] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
+[07:32:02] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[07:32:02] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.3
+[07:32:02] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
+[07:32:02] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.8.0
+[07:32:02] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v3.2.5
+[07:32:02] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion playerpoints
+[07:32:02] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin PlayerPoints was disabled.
+[07:32:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[07:32:02] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion vault
+[07:32:02] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin Vault was disabled.
+[07:32:02] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.2
+[07:32:02] [Server thread/INFO]: [yPlugins] Disabling yPlugins v2.2.4
+[07:32:02] [Server thread/INFO]: [nChat] Disabling nChat v5.6.3
+[07:32:02] [Server thread/INFO]: [nChat] Successful plugin core shutdown (took 0.00s)[m
+[07:32:02] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v21.03.09-a5e5590-1285-22.3.8
+[07:32:02] [Server thread/INFO]: [VoidGen] Disabling VoidGen v2.2.1
+[07:32:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.40
+[07:32:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[07:32:02] [Server thread/INFO]: [LuckPerms] Closing storage...
+[07:32:03] [Server thread/INFO]: [LuckPerms] Goodbye!
+[07:32:03] [Server thread/INFO]: Saving players
+[07:32:03] [Server thread/INFO]: Saving worlds
+[07:32:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[07:32:03] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[07:32:03] [Server thread/INFO]: Saving chunks for level 'Plotme'/Overworld

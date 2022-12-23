@@ -1,0 +1,10 @@
+ceo:
+  tabprefix: '&e[CEO]&f '
+  tagprefix: '&e[CEO]&f '
+  tabsuffix: ''
+  belowname: ''
+_DEFAULT_:
+  tabprefix: '&7'
+  tagprefix: '&7'
+  tabsuffix: '%yclans_formatted_tag%'
+  belowname: '%medieval_clan_belowname%'

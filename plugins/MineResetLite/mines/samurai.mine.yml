@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1204
+  maxY: 89
+  maxX: -722
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 67
+  resetWarnings: []
+  minX: -746
+  composition:
+    '21:0': 0.2
+    '1:0': 0.8
+  name: samurai
+  resetClock: 2
+  minZ: -1228
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

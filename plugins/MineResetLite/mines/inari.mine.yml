@@ -1,0 +1,23 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -972
+  maxY: 55
+  maxX: 628
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 35
+  resetWarnings: []
+  minX: 604
+  composition:
+    '129:0': 0.5
+    '56:0': 0.5
+  name: inari
+  resetClock: 2
+  minZ: -996
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0

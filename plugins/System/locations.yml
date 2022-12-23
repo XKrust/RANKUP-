@@ -1,0 +1,28 @@
+AreaNaoVip:
+  world: world
+  x: 0.0
+  y: 100.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+AreaVip:
+  world: world
+  x: 15.0
+  y: 100.0
+  z: 15.0
+  yaw: 0.0
+  pitch: 0.0
+Spawn:
+  world: world
+  x: -853.5128070710682
+  y: 77.0
+  z: -1262.409339713526
+  yaw: 4.1499977
+  pitch: 19.949774
+SpawnVip:
+  world: world
+  x: -853.5128070710682
+  y: 77.0
+  z: -1262.409339713526
+  yaw: 4.1499977
+  pitch: 19.949774

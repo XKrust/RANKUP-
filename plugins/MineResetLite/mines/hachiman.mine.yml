@@ -1,0 +1,24 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  resetDelay: 3
+  surface: ''
+  maxZ: -1209
+  maxY: 127
+  maxX: 99
+  ignoreLadders: false
+  fillMode: false
+  world: world
+  minY: 107
+  resetWarnings: []
+  minX: 75
+  composition:
+    '73:0': 0.1
+    '16:0': 0.2
+    '15:0': 0.7
+  name: hachiman
+  resetClock: 2
+  minZ: -1233
+  isSilent: true
+  tpY: -1
+  tpX: 0
+  tpZ: 0
